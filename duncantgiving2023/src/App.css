@@ -22,7 +22,7 @@ html {
   background-color: rgb(255, 255, 255, 0.20);
 }
 body {
-  background-image: url('chark.jpeg');
+  background-image: url('./assets/chark.jpeg');
   background-position: cover;
   display: flex;
   justify-content: center;
@@ -34,7 +34,7 @@ body {
 
 @media only screen and (max-width: 400px) {
   body {
-    background-image: url('chark.jpeg');
+    background-image: url('./assets/chark.jpeg');
     background-position: cover;
     /* overflow: hidden; */
     display: flex;
@@ -47,7 +47,7 @@ body {
 }
 @media only screen and (max-width: 800px) {
   body {
-    background-image: url('chark.jpeg');
+    background-image: url('./assets/chark.jpeg');
     background-position: cover;
 
     /* overflow: hidden; */
@@ -75,8 +75,6 @@ h1{
 }
 
 .body-content {
-  /* background-image: url('paper.jpeg');
-  background-position: fill; */
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -87,6 +85,7 @@ h1{
   margin-bottom: 80px;
   width: 700px;
   border: 2px solid rgb(15, 34, 15);
+  border-radius: 2px;
 }
 @media only screen and (max-width: 400px) {
   .body-content {
@@ -100,6 +99,7 @@ h1{
     margin-bottom: 80px;
     width: 300px;
     padding: 12px;
+    border-radius: 2px;
   }
 }
 @media only screen and (max-width: 800px) {
@@ -114,6 +114,7 @@ h1{
     margin-bottom: 80px;
     width: 300px;
     padding: 12px;
+    border-radius: 2px;
   }
 }
 .menu-card {
