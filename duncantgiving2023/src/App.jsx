@@ -15,7 +15,7 @@ function App() {
         <div className='menu-card'>
             <div className='menu-content'>
             <h4>Charcuterie Board</h4>
-            <p>Aged Manchengo • 18 Month Cheddar •  Sartori Wisconsin Cheese • Sopressata • Prosciutto • Vegan Spinach Dip</p>
+            <p>Aged Manchengo • 18 Month Cheddar •  Sartori Wisconsin Cheese • Brie • Sopressata • Prosciutto • Vegan Spinach Dip</p>
             </div>
           </div>
         <div className='h2-container'>
@@ -44,7 +44,7 @@ function App() {
               <p>Sweet Potato • Spices • Chili Oil</p>
             </div>
             <div className='menu-content'>
-              <h4>Chantrelle Ricotta Ravioli</h4>
+              <h4>Chantrelle Ricotta Raviolo</h4>
               <p>Chantrelle Mushrooms • Ricotta • Sage • Brown Butter Sabayon</p>
             </div>
             <div className='menu-content'>
@@ -56,7 +56,7 @@ function App() {
               <p>Duncan Farm Meyer Lemon • ChatGPT</p>
             </div>
             <div className='menu-content'>
-              <h4>Sammy</h4>
+              <h4>Autumn Entremet</h4>
               <p>Blackberry & Tonka Bean Crème Legere • Pumpkin Pie Brulée • Spiced Olive Oil Tender Biscuit • White Chocolate Glaze • Maple Leaf Tuile </p>
             </div>
             <div className='footer'>Billy Rogers  © 2024</div>
