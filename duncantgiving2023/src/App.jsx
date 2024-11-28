@@ -12,6 +12,12 @@ function App() {
         <div className='h2-container'>
         <h2>Hors D'oeuvres</h2>
         </div>
+        <div className='menu-card'>
+            <div className='menu-content'>
+            <h4>Cold Buttered Sazerac</h4>
+            <p>Brown Butter Washed Japanese Whisky • Cognac • Maple Syrup • Peychaud's Bitters • Caraway Absinthe Rinse</p>
+            </div>
+          </div>
         <div className='h2-container'>
         <h2>Cocktail Hour</h2>
         </div>
