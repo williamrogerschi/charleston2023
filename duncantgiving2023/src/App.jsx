@@ -11,10 +11,8 @@ function App() {
       </div>
       <div className='h2-container'>
         <h2>Hors D'oeuvres</h2>
-        <div className='menu-content'>
               <h4>Oyster & Tuna Amuse-Bouche</h4>
               <p>Oyster • Toro • Ponzu Sauce</p>
-            </div>
         </div>
         <div className='h2-container'>
         <h2>Cocktail Hour</h2>
