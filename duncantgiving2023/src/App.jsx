@@ -18,8 +18,8 @@ function App() {
             <p>Bourbon • Simple Syrup • Lemon • Millk Punch</p>
             </div>
             <div className='menu-content'>
-            <h4>Kirkland Signature</h4>
-            <p>Brut Champagne</p>
+            <h4>The Chill Pill</h4>
+            <p>AAaaaaaaaAA</p>
             </div>
           </div>
           <div className='h2-container'>
