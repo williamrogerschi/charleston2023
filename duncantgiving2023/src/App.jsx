@@ -44,8 +44,8 @@ function App() {
               <p>Sweet Potato • Spices • Chili Oil</p>
             </div>
             <div className='menu-content'>
-              <h4>Chantrelle Ricotta Raviolo</h4>
-              <p>Chantrelle Mushrooms • Ricotta • Sage • Brown Butter Sabayon</p>
+              <h4>Chanterelle Ricotta Raviolo</h4>
+              <p>Chanterelle Mushrooms • Ricotta • Sage • Brown Butter Sabayon</p>
             </div>
             <div className='menu-content'>
               <h4>Turkey Wellington</h4>
