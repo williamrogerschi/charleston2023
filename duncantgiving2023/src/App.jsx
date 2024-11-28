@@ -9,11 +9,6 @@ function App() {
       <div className='header-content'>
         <h1>Thanksgiving 2024</h1>
       </div>
-      <div className='h2-container'>
-        <h2>Hors D'oeuvres</h2>
-              <h4>Oyster & Tuna Amuse-Bouche</h4>
-              <p>Oyster • Toro • Ponzu Sauce</p>
-        </div>
         <div className='h2-container'>
         <h2>Cocktail Hour</h2>
         </div>
