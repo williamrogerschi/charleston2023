@@ -14,8 +14,8 @@ function App() {
         </div>
         <div className='menu-card'>
             <div className='menu-content'>
-            <h4>Cold Buttered Sazerac</h4>
-            <p>Brown Butter Washed Japanese Whisky • Cognac • Maple Syrup • Peychaud's Bitters • Caraway Absinthe Rinse</p>
+            <h4>Charcuterie Board</h4>
+            <p>Aged Manchengo • 18 Month Cheddar •  Sartori Wisconsin Cheese • Sopressata • Prosciutto • Vegan Spinach Dip</p>
             </div>
           </div>
         <div className='h2-container'>
