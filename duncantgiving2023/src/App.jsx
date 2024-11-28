@@ -10,6 +10,9 @@ function App() {
         <h1>Thanksgiving 2024</h1>
       </div>
         <div className='h2-container'>
+        <h2>Hors D'oeuvres</h2>
+        </div>
+        <div className='h2-container'>
         <h2>Cocktail Hour</h2>
         </div>
           <div className='menu-card'>
