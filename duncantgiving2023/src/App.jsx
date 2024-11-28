@@ -9,6 +9,13 @@ function App() {
       <div className='header-content'>
         <h1>Thanksgiving 2024</h1>
       </div>
+      <div className='h2-container'>
+        <h2>Hors D'oeuvres</h2>
+        <div className='menu-content'>
+              <h4>Oyster & Tuna Amuse-Bouche</h4>
+              <p>Oyster • Toro • Ponzu Sauce</p>
+            </div>
+        </div>
         <div className='h2-container'>
         <h2>Cocktail Hour</h2>
         </div>
@@ -40,14 +47,14 @@ function App() {
             </div>
             <div className='menu-content'>
               <h4>Turkey Wellington</h4>
-              <p>Fondant Potatoes • Crispy Brussel Sprouts</p>
+              <p>Fondant Potatoes • Crispy Brussel Sprouts • Pearl Onions • Pistachios</p>
             </div>
             <div className='menu-content'>
               <h4>Regenerative Sorb-AI</h4>
               <p>Duncan Farm Meyer Lemon • ChatGPT</p>
             </div>
             <div className='menu-content'>
-              <h4>Sammy Dessert</h4>
+              <h4>Sammy</h4>
               <p>Blackberry & Tonka Bean Crème Legere • Pumpkin Pie Brulée • Spiced Olive Oil Tender Biscuit • White Chocolate Glaze • Maple Leaf Tuile </p>
             </div>
             <div className='footer'>Billy Rogers  © 2024</div>
